@@ -37,8 +37,8 @@ The file `thesis.pdf` is provided for direct access to the final document.
 
 ## Citation
 
-A. Brogan, *Turing Machines and Computational Complexity*,  
-BSc Mathematics Dissertation, University of Leeds, 2021.
+A. Brogan, *Computational Complexity*,  
+BSc Mathematics Project in Mathematics, University of Leeds, 2021.
 
 
 
